@@ -1,7 +1,8 @@
 repo_name: patrickhaley/GAM-Scripts3
 report_id: 4db243f594cf5ca21f9974c4298f7c17
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-06T20:27:17+00:00'
+timestamp: '2024-01-05T08:28:34+00:00'
 requested_by: patrickhaley
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/patrickhaley/GAM-Scripts3
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,4 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/patrickhaley/GAM-Scripts3
   detection_source: Repo Metadata
